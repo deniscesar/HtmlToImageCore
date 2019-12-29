@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>HtmlToImageCore</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>deniscesar</Authors>
+    <Company>developer</Company>
+    <PackageProjectUrl>https://github.com/deniscesar/HtmlToImageCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/deniscesar/HtmlToImageCore</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>HtmlToImageCore Convert html to image net-standard</PackageTags>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+</Project>
